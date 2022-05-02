@@ -2,8 +2,10 @@
 The project deals with descriptive analysis of the e-commerce customers using excel and a dashboard for the same has been built.
 # E-commerce Customer Analysis using Excel
 
-The project deals with descriptive analysis of the E-commerce websites customer dataset  the study  of customers of This startup company from Q2 FY2018
-to Q1FY2019.
+The pandemic led to difficult times for all businesses , this startup which had a great
+ first quarter for FY2020 needs to retrospect the transactions in order to derive some
+ insights . The analysis will help the Startup to gain better insights to take necessary decisions.
+
 
 The study will help the startup to compare their current (after pandemic) business with the before business scenario. This study will also help the startup to 
 dive deep and gain insights about their customer base, product performance and sales for the previous year and to strategize and take decisions accordingly
